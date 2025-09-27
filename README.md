@@ -4,7 +4,6 @@
 [![Frontend](https://img.shields.io/badge/Frontend-React-blue)](#)
 [![Backend](https://img.shields.io/badge/Backend-Node.js-green)](#)
 
----
 
 ## **Tagline**  
 A comprehensive platform for buying, selling, and exploring two-wheelers.
